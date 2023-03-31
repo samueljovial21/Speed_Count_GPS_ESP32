@@ -13,7 +13,7 @@ Take a look at my repository before. [Link's here](https://github.com/samueljovi
 * GND : GND pin at ESP32 <br/>
 * SDA : 21 pin at ESP32 <br/>
 * SCL : 22 pin at ESP32 <br/>
-<img src="./ESP32_GPS_LCD.PNG">
+<img src="./ESP32_GPS_LCD.png">
 
 ## Notes
 You need to install TinyGpsPlus library first to your arduino IDE. <br/>
