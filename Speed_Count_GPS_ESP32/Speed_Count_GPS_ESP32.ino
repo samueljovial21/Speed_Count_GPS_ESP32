@@ -1,3 +1,8 @@
+/*
+ GitHub : samueljovial21
+ https://github.com/samueljovial21
+*/
+
 #include <TinyGPS++.h>
 #include <LiquidCrystal_I2C.h>
 
