@@ -1,4 +1,4 @@
-# Speed_Count_GPS_ESP32
+# Speed_Counter_GPS_ESP32
 Making a speedometer using ESP32 and GPS Module. <br/>
 Take a look at my repository before. [Link's here](https://github.com/samueljovial21/ESP32_GPS_Neo_6m.git).
 
